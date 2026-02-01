@@ -1,5 +1,5 @@
 # 🗑️ Garbage Image Classification Using CNN (PyTorch)
-
+## dataset : https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset
 ## 📌 Project Overview
 
 This project implements a **Garbage Image Classification System** using a **Convolutional Neural Network (CNN)** built from scratch with **PyTorch**.  
